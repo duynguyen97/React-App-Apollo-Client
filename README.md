@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Note
+Use [CORS Unblock](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en) provides control over XMLHttpRequest and fetch methods by providing custom "access-control-allow-origin" and "access-control-allow-methods" headers to every requests that the browser receives. 
 
 ## Available Scripts
 
